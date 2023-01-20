@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bz-bg-color{
+ background-color: rgba(231, 111, 81, 0.1);
+ padding: 5em; 
+ border-radius: 5px;
+}
+.bikerz-zone-light-red{
+  background-color: rgba(255, 0, 0, 0.19);
+  border-radius: 5px;
+}
+.bikerz-zone-light-black{
+  background-color: rgba(60, 0, 0, 0.19);
+  border-radius: 5px;
+}
+.collection-sub-title{
+  color: #E76F51;
+  font-size: 14px;
+  
+}
+.hr-line{
+  border: 1px solid #E76F51;
+}
+/* .footer-about{
+  margin-top: -35px;
+} */
+
